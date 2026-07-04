@@ -40,7 +40,6 @@ The AI Story Generator enables users to create engaging stories by simply enteri
 ```
 AI-Story-Generator/
 │── app.py
-└── README.md
 ```
 
 ---
